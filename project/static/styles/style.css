@@ -1,0 +1,24 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+
+
+
+.rodape
+{
+    background-color: #04244F;
+    width: 100%;
+    padding: 1.5rem 3rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+}
+
+.img
+{
+    width: 350px;
+    line-height: 50px;
+}
